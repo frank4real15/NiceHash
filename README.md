@@ -123,6 +123,3 @@ Works best on Windows 10 and above; some Linux support available via third-party
 
 ### What are common installation issues?
 Ensure all system updates are current; check disk space availability if errors occur during setup.
-
-[IMAGE-4: Illustration showing troubleshooting steps]
-[ALT: Visual guide for troubleshooting common NiceHash installation problems]
