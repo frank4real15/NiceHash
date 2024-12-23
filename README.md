@@ -63,6 +63,8 @@ For advanced users, use command line interface for silent installations.
 - Welcome screen appears post-installation.
 - No error messages during setup.
 
+*Fresh [installing Windows 10](https://shotgun-ammunition.com/windows-10-how-to-fresh-install-2/) ensures a clean start by removing unnecessary files and settings. Follow our comprehensive step-by-step guide to install Windows 10, optimize your system, and resolve potential issues for smooth performance.*
+
 ## Post-installation Setup
 
 *Time Required: 10 minutes*
